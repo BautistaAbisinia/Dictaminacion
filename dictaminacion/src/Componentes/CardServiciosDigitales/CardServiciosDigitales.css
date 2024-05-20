@@ -1,0 +1,24 @@
+.contenedor-personalizado {
+    cursor: pointer; /* Cambia el cursor a pointer para indicar que es clickeable */
+    max-width: 350px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    background-color: #ffffff;
+    overflow: hidden;
+    position: relative;
+    min-width: 250px;
+    max-width: 350px;
+    transition: box-shadow 0.6s ease-in-out; /* Agrega transición para el efecto de sombra */
+}
+
+.contenedor-personalizado:hover {
+    box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.2); /* Aumenta la sombra al hacer hover */
+}
+.titulo {
+    color : #6a1c32;
+    font-weight: bold; /* Add this line to make the text bolder */
+}
+
+.precio {
+    font-weight: bold; /* Add this line to make the text bolder */
+}

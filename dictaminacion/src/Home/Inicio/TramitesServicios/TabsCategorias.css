@@ -1,0 +1,26 @@
+.my-card a{
+    color: #6a1c32;
+}
+
+.my-card:hover a{
+    color: #b17a45;
+}
+
+/* Estilos para las animaciones de desvanecimiento */
+.fade-enter {
+    opacity: 0;
+}
+
+.fade-enter-active {
+    opacity: 1;
+    transition: opacity 500ms;
+}
+
+.fade-exit {
+    opacity: 1;
+}
+
+.fade-exit-active {
+    opacity: 0;
+    transition: opacity 500ms;
+}

@@ -1,0 +1,15 @@
+.my-accordion .header {
+    color: black;
+}
+
+.my-accordion .card-header:not(.collapsed) {
+    color: black;
+}
+
+.my-accordion .card-header:focus {
+    color: black;
+}
+
+.my-accordion .card-header:not(.collapsed):hover {
+    color: black;
+}

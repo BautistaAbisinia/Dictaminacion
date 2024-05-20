@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+            crossorigin="anonymous"
+    />
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="Agencia Digital del Estado de Baja California"
+      content="Pagina Dictaminación ADBC"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>Revisión técnica de las TICS</title>
+  </head>
+  <body>
+  <script>
+    (function()
+
+            {
+              var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true;
+              s.onload = function(){
+                acsbJS.init({
+                          statementLink : 'http://www.bajacalifornia.gob.mx/accesibilidad',
+                          footerHtml : 'Gobierno del Estado de Baja California',
+                          hideMobile : false,
+                          hideTrigger : false,
+                          disableBgProcess : false,
+                          language : 'es',
+                          position : 'right',
+                          leadColor : '#691c31',
+                          triggerColor : '#156ff8',
+                          triggerRadius : '50%',
+                          triggerPositionX : 'right',
+                          triggerPositionY : 'bottom',
+                          triggerIcon : 'people',
+                          triggerSize : 'medium',
+                          triggerOffsetX : 20,
+                          triggerOffsetY : 20,
+
+                          mobile : {
+                            triggerSize : 'small',
+                            triggerPositionX : 'right',
+                            triggerPositionY : 'bottom',
+                            triggerOffsetX : 10,
+                            triggerOffsetY : 10,
+                            triggerRadius : '50%'
+                          }
+                        }
+                );
+              };
+              h.appendChild(s);
+
+            }
+    )
+    ();
+
+  </script>
+    <div id="root"></div>
+
+  </body>
+</html>

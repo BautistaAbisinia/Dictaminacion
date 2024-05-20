@@ -1,0 +1,33 @@
+// src/custom-bootstrap.scss
+
+// Importa las funciones y las variables de Bootstrap
+@import '~bootstrap/scss/functions';
+@import '~bootstrap/scss/variables';
+
+// Sobrescribe las variables de color
+$primary: #6a1c32;
+$secondary: #f8f8f8;
+
+// Importa el resto de los archivos de Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Estilos personalizados para botones
+.btn {
+  background-color: $primary;
+  color: white;
+  border: 2px $primary; // Agrega un contorno negro
+  border-radius: 50px;
+  &:hover,
+  &:focus {
+    background-color: #53152b; // Cambia el color de fondo en hover y focus
+    color: white;
+    box-shadow: none;
+    border: 2px $primary; // Agrega un contorno negro
+  }
+  &:active {
+    background-color: darken($primary, 10%);
+    color: white;
+    box-shadow: none;
+    border: 2px $primary; // Agrega un contorno negro
+  }
+}

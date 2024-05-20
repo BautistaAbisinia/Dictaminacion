@@ -1,0 +1,6 @@
+/* src/components/LineaSeparadora.css */
+
+.linea-separadora {
+    border: 0;
+    border-top: 1px solid rgba(177, 122, 69, 1); /* Cambia el último valor (1) para ajustar la opacidad */
+}

@@ -1,0 +1,89 @@
+.buscador-gob {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+.header-buscador {
+    color: #6a1c32;
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.buscador-gob .search-input {
+    border-radius: 25px;
+    border: 2px solid #6a1c32;
+    outline: none;
+    padding-right: 50px;
+    height: 65px; /* Ajusta la altura del search-input */
+    font-size: 24px; /* Ajusta el tamaño de la fuente en el buscador */
+}
+
+.buscador-gob .search-button {
+    background-color: white;
+    border-radius: 50%;
+    border: none;
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 10;
+}
+
+
+.search-input:focus {
+    box-shadow: 0 0 0 2px #6a1c32;
+}
+
+.btn-search {
+    background-color: transparent;
+    color: #6a1c32;
+    border: none;
+    font-size: 1.2rem;
+    padding: 0.5rem 1rem;
+    margin-left: -45px;
+    cursor: pointer;
+}
+
+.btn-search:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.busquedas-frecuentes {
+    margin-top: 1rem;
+}
+
+.busquedas-frecuentes h4 {
+    margin-bottom: 0.5rem;
+}
+
+.frecuente-item {
+    margin-right: 1rem;
+    list-style-type: none;
+    color: black;
+    font-weight: bold;
+}
+
+.search-input::placeholder {
+    background-repeat: no-repeat;
+    background-size: 1.25rem 1.25rem;
+    background-position: center left 0.5rem;
+    padding-left: 2rem;
+}
+.input-icon {
+    background-color: transparent;
+    border: none;
+}
+
+.frecuente-item {
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.frecuente-item:hover {
+    color: #b17a45;
+}
+
+

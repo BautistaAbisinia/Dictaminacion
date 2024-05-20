@@ -1,0 +1,26 @@
+table {
+    border: 1px solid;
+    color: black;
+}
+
+tbody {
+    border: 2px solid black;
+    color: black;
+}
+
+tr {
+    border: 2px solid black;
+
+}
+
+td {
+    border: 2px solid black;
+
+}
+
+.encabezadoEstandar {
+    font-size: xxx-large;
+    font-weight: 700;
+    color: #6a1c32;
+}
+

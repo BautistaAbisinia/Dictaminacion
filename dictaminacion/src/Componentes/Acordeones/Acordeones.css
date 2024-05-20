@@ -1,0 +1,49 @@
+.accordion-button:not(.collapsed) {
+    color: #ffffff !important; /* Texto blanco */
+    background-color: #6a1c32 !important; /* Fondo color guinda */
+    box-shadow: inset 0 -1px 0 rgba(0,0,0,.125) !important;
+}
+
+custom-accordion li, .custom-accordion li a {
+    color: #6a1c32 !important;
+}
+
+.custom-accordion li a:hover {
+    color: #b17a45 !important;
+}
+
+.custom-accordion .accordion-button:not(.collapsed) {
+    color: #ffffff; /* color blanco del texto */
+    background-color: #6a1c32; /* color guinda del fondo */
+}
+
+.custom-accordion .accordion-button:not(.collapsed):hover {
+    background-color: #b17a45 !important; /* color de hover */
+}
+
+.custom-accordion .accordion-item { /* Agrega sombreado y bordes redondeados a los elementos del acordeón */
+    box-shadow: 0 0 16px rgba(0,0,0,0.1);
+    border-radius: 20px; /* Ajusta este valor para obtener la redondez que desees */
+}
+
+.custom-accordion .accordion-header, .custom-accordion .accordion-body {
+    border-radius: 20px; /* Asegúrate de que los encabezados y cuerpos del acordeón también tengan bordes redondeados */
+}
+
+.custom-accordion .accordion-button {
+    background-color: #6a1c32;
+    color : white;
+    border-radius: 20px; /* Puedes ajustar esto si quieres que los botones del acordeón también tengan bordes redondeados */
+}
+
+.encabezadoEstandar {
+    font-size: xxx-large;
+    font-weight: 700;
+    color: #6a1c32;
+}
+.preguntas{
+    height: 120px;
+}
+.contenido{
+    color: #b17a45 !important;
+}

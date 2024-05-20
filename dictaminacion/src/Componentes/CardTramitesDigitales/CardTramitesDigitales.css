@@ -1,0 +1,117 @@
+.card-tramites-digitales {
+   /* width: calc(33.333% - 1rem);*/
+    min-width: 350px;
+    max-width: 350px;
+    margin-bottom: 1rem;
+    min-height: 300px; /* Altura mínima */
+    max-height: 300px; /* Altura máxima */
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+.iniciar-tramite-btn {
+    font-weight: bold !important;
+}
+
+
+.card-tramites-digitales:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 20px rgba(0, 0, 0, 0.15);
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    justify-content: space-between;
+}
+
+.buttons-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin-top: auto;
+}
+
+.card-content {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.card-header-tramite {
+    color: #6a1c32 !important;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.precio {
+    font-weight: bold;
+}
+
+.btn {
+    text-decoration: none !important; /* Quita el subrayado del texto en el botón */
+}
+
+.btn-outline-custom {
+    color: #6a1c32;
+    border-color: #6a1c32;
+    background-color: transparent;
+    border: 2px solid #6a1c32; /* Agrega un borde al botón blanco */
+}
+
+.btn-outline-custom:hover {
+    color: #fff;
+    background-color: #6a1c32;
+    border-color: #6a1c32;
+}
+
+/* Agrega las siguientes reglas CSS */
+.card-buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 5px;
+}
+
+.card-buttons .btn {
+    width: 100%;
+    gap: 0.5rem;
+}
+
+.btn-tramite {
+    text-decoration: none !important; /* Quita el subrayado del texto en el botón */
+    width: 100%; /* Estira el ancho del botón al 100% del contenedor */
+    height: 50px; /* Ajusta la altura del botón */
+}
+
+.card-tramites-digitales .btn-outline-custom {
+    color: #6a1c32;
+    border-color: #6a1c32;
+    background-color: transparent;
+    border: 2px solid #6a1c32; /* Agrega un borde al botón blanco */
+
+}
+
+.card-tramites-digitales .btn-outline-custom:hover {
+    color: #fff;
+    background-color: #6a1c32;
+    border-color: #6a1c32;
+}
+
+
+.buttons-container .btn {
+    width: 100%; /* Establece el ancho al 100% para que los botones ocupen el espacio disponible */
+    padding: 0.75rem 1.25rem; /* Ajusta el relleno para que los botones sean más grandes */
+}
+
+.card-tramites-digitales .btn-primary {
+    width: 100%; /* Establece el ancho al 100% para que el enlace ocupe el espacio disponible */
+    padding: 0.75rem 1.25rem; /* Ajusta el relleno para que el enlace sea más grande */
+}
+

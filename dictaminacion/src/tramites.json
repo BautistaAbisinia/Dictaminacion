@@ -1,0 +1,317 @@
+[
+        {
+            "id": 0,
+            "Nombre": "Ruta Centro Histórico de Mexicali",
+            "Descripcion": "Descripcion 0",
+            "Categoria": "Educación y Aprendizaje",
+            "URL": "url ejemplo 1"
+        },
+    {
+        "id": 1,
+        "Nombre": "Solicitud de histórico de cargos y pagos correspondientes ante la Comisiòn de Servicios Pùblicos de Tecate.",
+        "Descripcion": "Descripcion 1",
+        "Categoria": "Vehícular y Transporte",
+        "URL": "url ejemplo 2"
+    },
+    {
+        "id": 2,
+        "Nombre": "Programa de Autorregulación Sanitaria ante COEPRIS BC",
+        "Descripcion": "Descripcion 2",
+        "Categoria": "Vivienda y Servicios Locales",
+        "URL": "url ejemplo 3"
+    },
+    {
+        "id": 3,
+        "Nombre": "Trámite para el permiso sanitario",
+        "Descripcion": "Descripcion 3",
+        "Categoria": "Beneficios",
+        "URL": "url ejemplo 4"
+    },
+    {
+        "id": 4,
+        "Nombre": "Modificación de Datos y/o Reposición de Credencial de Discapacidad Vigente",
+        "Descripcion": "Descripcion 4",
+        "Categoria": "Beneficios",
+        "URL": "url ejemplo 5"
+    },
+    {
+        "id": 5,
+        "Nombre": "Aviso de testamento gestionado por los Notarios",
+        "Descripcion": "Descripcion 5",
+        "Categoria": "Beneficios",
+        "URL": "url ejemplo 6"
+    },
+    {
+        "id": 6,
+        "Nombre": "Buzòn de Quejas y Sugerencias Ciudadanas del servicio de transporte pùblico ante IMOS",
+        "Descripcion": "Descripcion 6",
+        "Categoria": "Beneficios",
+        "URL": "url ejemplo 7"
+    },
+    {
+        "id": 7,
+        "Nombre": "No Inscripción Civil de un predio en posesiòn del solicitante",
+        "Descripcion": "Descripcion 7",
+        "Categoria": "Beneficios",
+        "URL": "url ejemplo 8"
+    },
+    {
+        "id": 8,
+        "Nombre": "Aviso de Producción",
+        "Descripcion": "Descripcion 8",
+        "Categoria": "Beneficios",
+        "URL": "url ejemplo 9"
+    },
+    {
+        "id": 9,
+        "Nombre": "Buzón de quejas y denuncias respecto a los servicios de un Agente Inmobiliario.",
+        "Descripcion": "Descripcion 9",
+        "Categoria": "Beneficios",
+        "URL": "url ejemplo 10"
+    },
+    {
+        "id": 10,
+        "Nombre": "Duplicado/Certificación de Estudios de Educación Secundaria",
+        "Descripcion": "Descripcion 10",
+        "Categoria": "Vivienda y Servicios Locales",
+        "URL": "url ejemplo 11"
+    },
+    {
+        "id": 11,
+        "Nombre": "Duplicado/Certificación de Estudios de Educación Primaria",
+        "Descripcion": "Descripcion 11",
+        "Categoria": "Vivienda y Servicios Locales",
+        "URL": "url ejemplo 12"
+    },
+    {
+        "id": 12,
+        "Nombre": "Estudio, Trámite y Resolución de Solicitud, por Cambio de Docente en Plantel \nParticular Incorporado ",
+        "Descripcion": "Descripcion 12",
+        "Categoria": "Negocios",
+        "URL": "url ejemplo 13"
+    },
+    {
+        "id": 13,
+        "Nombre": "Estudio, Trámite y Resolución de Solicitud, de Cambio de Director del Plantel \nParticular Incorporado ",
+        "Descripcion": "Descripcion 13",
+        "Categoria": "Vehícular y Transporte",
+        "URL": "url ejemplo 14"
+    },
+    {
+        "id": 14,
+        "Nombre": "Reestructuración de Grupos en Escuelas Particulares",
+        "Descripcion": "Descripcion 14",
+        "Categoria": "Vehícular y Transporte",
+        "URL": "url ejemplo 15"
+    },
+    {
+        "id": 15,
+        "Nombre": "Actualización de Registro como Generador de Residuos de Manejo Especial",
+        "Descripcion": "Descripcion 15",
+        "Categoria": "Vivienda y Servicios Locales",
+        "URL": "url ejemplo 16"
+    },
+    {
+        "id": 16,
+        "Nombre": "Informe de actividades de conservación y aprovechamiento\n sustentable de la vida silvestre ",
+        "Descripcion": "Descripcion 16",
+        "Categoria": "Beneficios",
+        "URL": "url ejemplo 17"
+    },
+    {
+        "id": 17,
+        "Nombre": "Registro Generador de Residuos de Manejo Especial",
+        "Descripcion": "Descripcion 17",
+        "Categoria": "Vehícular y Transporte",
+        "URL": "url ejemplo 18"
+    },
+    {
+        "id": 18,
+        "Nombre": "Aviso de Aprovechamiento de Ejemplares Exóticos",
+        "Descripcion": "Descripcion 18",
+        "Categoria": "Vehícular y Transporte",
+        "URL": "url ejemplo 19"
+    },
+    {
+        "id": 19,
+        "Nombre": "Aprovechamiento no extractivo de vida silvestre",
+        "Descripcion": "Descripcion 19",
+        "Categoria": "Vivienda y Servicios Locales",
+        "URL": "url ejemplo 20"
+    },
+    {
+        "id": 20,
+        "Nombre": "Autorización para la liberación de ejemplares de vida silvestre al hábitat natural",
+        "Descripcion": "Descripcion 20",
+        "Categoria": "Vehícular y Transporte",
+        "URL": "url ejemplo 21"
+    },
+    {
+        "id": 21,
+        "Nombre": "Aviso para realizar aprovechamiento de aves silvestres migratorias en predios \ndistintos a donde se lleva a cabo la conservación",
+        "Descripcion": "Descripcion 21",
+        "Categoria": "Vehícular y Transporte",
+        "URL": "url ejemplo 22"
+    },
+    {
+        "id": 22,
+        "Nombre": "Informe de resultados de la aplicación de las medidas de manejo, control y \nremediación de ejemplares o poblaciones perjudiciales ",
+        "Descripcion": "Descripcion 22",
+        "Categoria": "Vivienda y Servicios Locales",
+        "URL": "url ejemplo 23"
+    },
+    {
+        "id": 23,
+        "Nombre": "Permiso Individual de Pesca Deportiva",
+        "Descripcion": "Descripcion 23",
+        "Categoria": "Educación y Aprendizaje",
+        "URL": "url ejemplo 24"
+    },
+    {
+        "id": 24,
+        "Nombre": "Expedición de constancia de antecedentes penales",
+        "Descripcion": "Descripcion 24",
+        "Categoria": "Educación y Aprendizaje",
+        "URL": "url ejemplo 25"
+    },
+    {
+        "id": 25,
+        "Nombre": "Pago de Impuestos Federales y Estatales",
+        "Descripcion": "Descripcion 25",
+        "Categoria": "Vivienda y Servicios Locales",
+        "URL": "url ejemplo 26"
+    },
+    {
+        "id": 26,
+        "Nombre": " Consulta y pago en línea de Convenios.",
+        "Descripcion": "Descripcion 26",
+        "Categoria": "Educación y Aprendizaje",
+        "URL": "url ejemplo 27"
+    },
+    {
+        "id": 27,
+        "Nombre": "Solicitud de Comprobante Fiscal Digital por Internet(CFDi)",
+        "Descripcion": "Descripcion 27",
+        "Categoria": "Educación y Aprendizaje",
+        "URL": "url ejemplo 28"
+    },
+    {
+        "id": 28,
+        "Nombre": "Pago Electronico de Derechos, Productos y Aprovechamientos (DPA)",
+        "Descripcion": "Descripcion 28",
+        "Categoria": "Vivienda y Servicios Locales",
+        "URL": "url ejemplo 29"
+    },
+    {
+        "id": 29,
+        "Nombre": "Consulta de Calificaciones Secretarìa de Educaciòn",
+        "Descripcion": "Descripcion 29",
+        "Categoria": "Educación y Aprendizaje",
+        "URL": "url ejemplo 30"
+    },
+    {
+        "id": 30,
+        "Nombre": "Registro Estatal de Profesionistas, Secretarìa de Educaciòn",
+        "Descripcion": "Descripcion 30",
+        "Categoria": "Educación y Aprendizaje",
+        "URL": "url ejemplo 31"
+    },
+    {
+        "id": 31,
+        "Nombre": "Verificación de Certificados, Secretarìa de Educaciòn",
+        "Descripcion": "Descripcion 31",
+        "Categoria": "Vivienda y Servicios Locales",
+        "URL": "url ejemplo 32"
+    },
+    {
+        "id": 32,
+        "Nombre": "Consulta de calificaciones de evaluaciones parciales (Boletas), COBACH BC.",
+        "Descripcion": "Descripcion 32",
+        "Categoria": "Educación y Aprendizaje",
+        "URL": "url ejemplo 33"
+    },
+    {
+        "id": 33,
+        "Nombre": "Inscripción a COBACH BC",
+        "Descripcion": "Descripcion 33",
+        "Categoria": "Negocios",
+        "URL": "url ejemplo 34"
+    },
+    {
+        "id": 34,
+        "Nombre": "Solicitudes de Dictamen.  COBACH BC.\n",
+        "Descripcion": "Descripcion 34",
+        "Categoria": "Negocios",
+        "URL": "url ejemplo 35"
+    },
+    {
+        "id": 35,
+        "Nombre": "Ficha de Ingreso a CECYTEBC",
+        "Descripcion": "Descripcion 35",
+        "Categoria": "Otros",
+        "URL": "url ejemplo 36"
+    },
+    {
+        "id": 36,
+        "Nombre": "Reinscripción a CECYTEBC",
+        "Descripcion": "Descripcion 36",
+        "Categoria": "Otros",
+        "URL": "url ejemplo 37"
+    },
+    {
+        "id": 37,
+        "Nombre": "Ficha de Ingreso. UTT",
+        "Descripcion": "Descripcion 37",
+        "Categoria": "Otros",
+        "URL": "url ejemplo 38"
+    },
+    {
+        "id": 38,
+        "Nombre": "Registro de proveedores de Gobierno Baja California",
+        "Descripcion": "Descripcion 38",
+        "Categoria": "Otros",
+        "URL": "url ejemplo 39"
+    },
+    {
+        "id": 39,
+        "Nombre": "Certificado de libertad de gravámenes. RPPC.",
+        "Descripcion": "Descripcion 39",
+        "Categoria": "Negocios",
+        "URL": "url ejemplo 40"
+    },
+    {
+        "id": 40,
+        "Nombre": "Hoja inscripción. RPPC.",
+        "Descripcion": "Descripcion 40",
+        "Categoria": "Negocios",
+        "URL": "url ejemplo 41"
+    },
+    {
+        "id": 41,
+        "Nombre": "Certificado de no propiedad. RPPC.",
+        "Descripcion": "Descripcion 41",
+        "Categoria": "Otros",
+        "URL": "url ejemplo 42"
+    },
+    {
+        "id": 42,
+        "Nombre": "Emision de copias certificadas. RPPC.",
+        "Descripcion": "Descripcion 42",
+        "Categoria": "Otros",
+        "URL": "url ejemplo 43"
+    },
+    {
+        "id": 43,
+        "Nombre": "cotización  de Trámite. RPPC.",
+        "Descripcion": "Descripcion 43",
+        "Categoria": "Beneficios",
+        "URL": "url ejemplo 44"
+    },
+    {
+        "id": 44,
+        "Nombre": "Descarga de certificados. RPPC.",
+        "Descripcion": "Descripcion 44",
+        "Categoria": "Educación y Aprendizaje",
+        "URL": "url ejemplo 45"
+    }
+]

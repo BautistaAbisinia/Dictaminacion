@@ -1,0 +1,45 @@
+hr {
+    border-color: white;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 18px; /* tamaño de letra deseado */
+}
+
+li {
+    margin: 0;
+    padding: 0;
+}
+
+li a {
+    color: gray;
+    text-decoration: none;
+}
+
+div-col {
+    align-items: center;
+}
+
+
+.mi-enlace {
+    color: white;
+    text-decoration: none;
+}
+
+.custom-bg-gob {
+    background-color: #6a1c32;
+}
+
+
+.header-ventanilla-unica {
+    color: white;
+    margin-bottom: 0;
+}
+
+.menu-dropdown .nav-link:hover {
+    background-color: #b17a45 !important; /* Color de fondo al hacer hover */
+}
+

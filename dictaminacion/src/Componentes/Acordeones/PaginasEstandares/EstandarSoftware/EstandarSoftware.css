@@ -1,0 +1,8 @@
+.Panel-elements {
+    margin: 0 0 28px;
+    background-color: #fff;
+    border-radius: 4px;
+    overflow: hidden;
+    border: solid 1px #ddd;
+    padding: 0;
+}

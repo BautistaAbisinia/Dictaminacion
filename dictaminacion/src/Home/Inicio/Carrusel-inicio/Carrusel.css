@@ -1,0 +1,30 @@
+/* src/components/Carrusel.css */
+
+.carrusel-container {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.carrusel-image {
+    min-height: 300px;
+    max-height: 600px;
+    object-fit: cover;
+}
+
+.carousel-indicators li {
+    background-color: #6a1c32;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    background-color: #6a1c32;
+    opacity: 1;
+}
+
+.carousel-control-next:hover .carousel-control-next-icon,
+.carousel-control-prev:hover .carousel-control-prev-icon {
+
+}

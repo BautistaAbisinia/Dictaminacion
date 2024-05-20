@@ -1,0 +1,57 @@
+
+.list-group-horizontal .dropdown-toggle {
+    font-size: 18px;
+    height: 70px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.dropdown-menu {
+    min-width: 100%;
+    height: auto;
+    font-size: 1.2rem;
+    color: white;
+
+}
+
+
+
+
+.dropdown-menu .dropdown-item {
+    font-size: 18px;
+    line-height: 30px;
+    color: white;
+
+    background-color: #6a1c32;
+}
+
+.dropdown-menu .dropdown-item:hover {
+    background-color: #7f283e;
+    color: white;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+.custom-bg-gob {
+    background-color: #6a1c32;
+    color: white;
+}
+
+.custom .dropdown-menu {
+    background-color: #6a1c32;
+    color: white;
+}
+
+.custom .dropdown-toggle {
+    color: #ffffff;
+}
+
+.dropdown-toggle:hover {
+    background-color: #7f283e;
+
+}
