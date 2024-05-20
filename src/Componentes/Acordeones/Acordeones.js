@@ -110,6 +110,8 @@ function Acordeones() {
                                 <li>
                                     <Link to="/componentes">Estándares Técnicos de Componentes</Link>
                                 </li>
+                                <a href="https://drive.google.com/file/d/1SxMt6k-Ac4tXGEJ4rvUmd88dur6EEPKf/view?usp=sharing"
+                                       download="LineamietosWeb.pdf">Estándares Técnicos de Componentes WEB</a>
                                 <li>
                                     <Link to="/ducteria">Estándares Técnicos Para la Instalación de Ductería en Infraestructura de Redes y Telecomunicaciones</Link>
                                 </li>
